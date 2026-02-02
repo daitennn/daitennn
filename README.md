@@ -9,11 +9,11 @@
 <br/>
 
 <!-- Profile Views & Followers -->
-<a href="https://github.com/daitenn">
-  <img src="https://komarev.com/ghpvc/?username=daitenn&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+<a href="https://github.com/daitennn">
+  <img src="https://komarev.com/ghpvc/?username=daitennn&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
 </a>
-<a href="https://github.com/daitenn?tab=followers">
-  <img src="https://img.shields.io/github/followers/daitenn?label=Followers&style=for-the-badge&color=6366f1" alt="Followers" />
+<a href="https://github.com/daitennn?tab=followers">
+  <img src="https://img.shields.io/github/followers/daitennn?label=Followers&style=for-the-badge&color=6366f1" alt="Followers" />
 </a>
 
 </div>
@@ -77,20 +77,20 @@
 
 <div align="center">
 
-<a href="https://github.com/daitenn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daitenn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daitenn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<a href="https://github.com/daitennn">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daitennn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daitennn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </a>
 
 <br/><br/>
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=daitenn&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=f97316&currStreakLabel=6366f1" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=daitennn&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=f97316&currStreakLabel=6366f1" alt="GitHub Streak" />
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=daitenn&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366f1&line=6366f1&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=daitennn&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366f1&line=6366f1&point=ffffff" width="100%"/>
 
 </div>
 
@@ -99,7 +99,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daitenn&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=daitennn&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -107,9 +107,9 @@
 ## 📈 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daitenn-x9s/daitenn/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daitenn-x9s/daitenn/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/daitenn-x9s/daitenn/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daitennnn/daitennn/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daitennnn/daitennn/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/daitennnn/daitennn/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
@@ -119,7 +119,7 @@
 <div align="center">
   
 [![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=Zenn&logoColor=white)](https://zenn.dev/daiten)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/daitenn)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/daitennn)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@daiten-x8v)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/daiten_engineer/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@daiten.official)
