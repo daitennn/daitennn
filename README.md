@@ -83,8 +83,8 @@ motto: "Ship fast, iterate faster"
 <div align="center">
 
 <a href="https://github.com/daitennn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daitennn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daitennn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=daitennn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=daitennn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=c9d1d9"/>
 </a>
 
 <br/><br/>
@@ -104,7 +104,7 @@ motto: "Ship fast, iterate faster"
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daitennn&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-roan.vercel.app/?username=daitennn&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
