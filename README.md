@@ -1,123 +1,130 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:ec4899&height=220&section=header&text=daitennn&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20the%20Future&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=750&lines=Full+Stack+Web+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Next.js+%7C+TypeScript+%7C+Go+%7C+Rust+%7C+AWS+Lover+%F0%9F%92%99;Building+Amazing+Web+Experiences+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=80&lines=%F0%9F%9A%80+Crafting+Digital+Experiences+with+Code;%E2%9C%A8+Turning+Ideas+into+Scalable+Products;%F0%9F%8C%8F+Next.js+%7C+TypeScript+%7C+Go+%7C+Cloud+Architecture)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- Profile Views & Followers -->
 <a href="https://github.com/daitennn">
-  <img src="https://komarev.com/ghpvc/?username=daitennn&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=daitennn&label=PROFILE+VIEWS&color=6366f1&style=for-the-badge" alt="Profile Views" />
 </a>
+&nbsp;
 <a href="https://github.com/daitennn?tab=followers">
-  <img src="https://img.shields.io/github/followers/daitennn?label=Followers&style=for-the-badge&color=6366f1" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/daitennn?label=FOLLOWERS&style=for-the-badge&color=a855f7" alt="Followers" />
+</a>
+&nbsp;
+<a href="https://github.com/daitennn?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOS-3-ec4899?style=for-the-badge" alt="Repos" />
 </a>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 👨‍💻 About Me
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-- 🔭 **Currently working on** Web Application Development
-- 🌱 **Learning** Cloud Architecture & DevOps
+<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+```yaml
+name: daitennn
+role: Full Stack Developer
+location: Japan 🇯🇵
+currently_building: Web Applications at Scale
+learning: Cloud Architecture & DevOps
+interests:
+  - Performance Optimization
+  - Clean Architecture
+  - Developer Experience
+motto: "Ship fast, iterate faster"
+```
+
+- 🔭 **Currently building** next-gen web applications
+- 🌱 **Deep diving into** Cloud Architecture, DevOps & Infrastructure
 - 💬 **Ask me about** React, Next.js, TypeScript, Go
-- 📝 **I write articles on** [Zenn](https://zenn.dev/daiten)
-- ⚡ **Fun fact** I love building beautiful & performant web apps!
+- 📝 **Writing tech articles on** [Zenn](https://zenn.dev/daiten)
+- ⚡ **Passionate about** beautiful UI & blazing-fast performance
 
 <br clear="right"/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+<div align="center">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,java,php,ruby,html,css&theme=dark" />
-</p>
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,java,php,ruby,html,css&theme=dark" />
 
 ### ⚛️ Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,angular,svelte,tailwind,sass,bootstrap,materialui&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,angular,svelte,tailwind,sass,bootstrap,materialui&theme=dark" />
 
 ### 🔧 Backend & Runtime
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask,django,laravel,spring,rails&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask,django,laravel,spring,rails&theme=dark" />
 
 ### 🗄️ Database & ORM
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,prisma,graphql&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,prisma,graphql&theme=dark" />
 
 ### ☁️ DevOps & Cloud
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,terraform,nginx,vercel,netlify&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,terraform,nginx,vercel,netlify&theme=dark" />
 
 ### 🔨 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux&theme=dark" />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux&theme=dark" />
-</p>
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/daitennn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daitennn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daitennn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daitennn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daitennn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=c9d1d9"/>
 </a>
 
 <br/><br/>
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=daitennn&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=f97316&currStreakLabel=6366f1" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=daitennn&theme=tokyonight&hide_border=true&background=0D1117&stroke=a855f7&ring=6366f1&fire=ec4899&currStreakLabel=a855f7&sideLabels=a855f7&currStreakNum=ffffff&sideNums=ffffff&dates=555555" alt="GitHub Streak" />
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=daitennn&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366f1&line=6366f1&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=daitennn&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=a855f7&line=6366f1&point=ec4899&area=true&area_color=6366f1" width="100%"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daitennn&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=daitennn&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📈 Contribution Graph
+## 🐍 Contribution Graph
 
+<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daitennnn/daitennn/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daitennnn/daitennn/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/daitennnn/daitennn/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daitennn/daitennn/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daitennn/daitennn/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/daitennn/daitennn/output/github-contribution-grid-snake-dark.svg">
 </picture>
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤝 Connect with Me
 
 <div align="center">
-  
+
 [![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=Zenn&logoColor=white)](https://zenn.dev/daiten)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/daitennn)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@daiten-x8v)
@@ -126,15 +133,19 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-<!-- Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-**Thanks for visiting! 🙏**
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+<br/><br/>
+
+**Thanks for visiting! Drop a ⭐ if you like my work!**
+
+<br/>
+
+<!-- Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:ec4899&height=120&section=footer" width="100%"/>
 
 </div>
