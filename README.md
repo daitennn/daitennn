@@ -119,22 +119,6 @@ motto: "Ship fast, iterate faster"
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daitennn&theme=tokyonight&utcOffset=9" width="32%" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🤝 Connect with Me
-
-<div align="center">
-
-[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=Zenn&logoColor=white)](https://zenn.dev/daiten)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/daitennn)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@daiten-x8v)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/daiten_engineer/)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@daiten.official)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
