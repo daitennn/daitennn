@@ -18,7 +18,7 @@
 </a>
 &nbsp;
 <a href="https://github.com/daitennn?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOS-3-ec4899?style=for-the-badge" alt="Repos" />
+  <img src="https://img.shields.io/badge/REPOS-2-ec4899?style=for-the-badge" alt="Repos" />
 </a>
 
 </div>
@@ -83,8 +83,8 @@ motto: "Ship fast, iterate faster"
 <div align="center">
 
 <a href="https://github.com/daitennn">
-  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=daitennn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=daitennn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=daitennn&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=daitennn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=c9d1d9&cache_seconds=1800"/>
 </a>
 
 <br/><br/>
